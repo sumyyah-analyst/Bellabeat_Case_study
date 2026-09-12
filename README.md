@@ -62,8 +62,7 @@ The Power BI dashboard presents:
 - Interactive filters
 - Marketing Opportunities
 
-![Bellabeat Dashboard]([Dashboard/Bellabeat_Analysis.png](https://github.com/sumyyah-analyst/Bellabeat_Case_study/blob/main/Bellabeat_Analysis.png))
-
+![Bellabeat Dashboard](Bellabeat_Analysis.png)
 ##  Project Files
 
 ```text
